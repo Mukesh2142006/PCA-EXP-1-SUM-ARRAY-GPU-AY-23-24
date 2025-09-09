@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>N MUKESH B</h3>
+<h3>MUKESH B</h3>
 <h3>212223230128</h3>
 <h3>EX NO 1</h3>
 <h3>09.09.2025</h3>
